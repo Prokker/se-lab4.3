@@ -1,0 +1,3 @@
+# Create a ship with only secundary rockets that never fails
+GT4500,0,0,10,0
+TORPEDO,SINGLE  # should fire from secundary slot
